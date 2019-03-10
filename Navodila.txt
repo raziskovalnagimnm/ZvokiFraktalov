@@ -16,3 +16,5 @@ Poimenovanje datotek (BBAAYxY-M-T.datoteka):
     BB (prazno, W ali Spektrogram):
         W - Waveform - slika sinusoide
         Spektrogram - Spektrogram določene wav datoteke izbranega fraktala
+
+    datoteka (WAV ali PNG)
