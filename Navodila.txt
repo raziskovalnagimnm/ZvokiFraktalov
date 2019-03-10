@@ -1,0 +1,18 @@
+Poimenovanje datotek (BBAAYxY-M-T.datoteka):
+    AA (KS ali SC):
+        KS - Koch Snowflake
+        SC - Sierpinski Carpet
+
+    YxY - Velikost slike (Y mora biti 2^n)
+
+    Z - Katera iteracija (Z [1,5])
+
+    M (S ali K):
+        S - Python program Simultano - Program 1
+        K - Python program Konsekutivno - Program 2
+
+    T - Čas (če ne sledi nič je osnovna časovna enota 16 sekund)
+
+    BB (prazno, W ali Spektrogram):
+        W - Waveform - slika sinusoide
+        Spektrogram - Spektrogram določene wav datoteke izbranega fraktala
