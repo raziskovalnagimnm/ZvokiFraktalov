@@ -1,0 +1,5 @@
+Audacity:
+https://www.audacityteam.org/download/
+
+Sonic visualiser:
+https://www.sonicvisualiser.org/download.html
