@@ -1,2 +1,47 @@
 WAV Datoteke:
 
+Simultano:
+
+	128x128B-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201/128x128B-S-.wav
+	128x128W-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201/128x128W-S-.wav
+
+	KS128x128-1-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201/Koch/KS128x128-1-S-.wav
+	KS128x128-2-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201/Koch/KS128x128-2-S-.wav
+	KS128x128-3-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201/Koch/KS128x128-3-S-.wav
+	KS128x128-4-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201/Koch/KS128x128-4-S-.wav
+	KS128x128-5-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201/Koch/KS128x128-5-S-.wav
+
+	SC128x128-1-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201/Sierpinski/SC128x128-1-S-.wav
+	SC128x128-2-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201/Sierpinski/SC128x128-2-S-.wav
+	SC128x128-3-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201/Sierpinski/SC128x128-3-S-.wav
+	SC128x128-4-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201/Sierpinski/SC128x128-4-S-.wav
+	SC128x128-5-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201/Sierpinski/SC128x128-5-S-.wav
+
+Konsekutivno:
+
+	128x128B-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/DolgeWavDatoteke/128x128B-K-4096s.wav
+	128x128B-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/128x128B-K-4096s-16s.wav
+	128x128W-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/DolgeWavDatoteke/128x128W-K-4096s.wav
+	128x128W-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/128x128W-K-4096s-16s.wav
+
+	KS128x128-1-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/DolgeWavDatoteke/KS128x128-1-K-4096s.wav
+	KS128x128-1-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/Koch/KS128x128-1-K-4096s-16s.wav
+	KS128x128-2-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/DolgeWavDatoteke/KS128x128-2-K-4096s.wav
+	KS128x128-2-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/Koch/KS128x128-2-K-4096s-16s.wav
+	KS128x128-3-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/DolgeWavDatoteke/KS128x128-3-K-4096s.wav
+	KS128x128-3-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/Koch/KS128x128-3-K-4096s-16s.wav
+	KS128x128-4-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/DolgeWavDatoteke/KS128x128-4-K-4096s.wav
+	KS128x128-4-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/Koch/KS128x128-4-K-4096s-16s.wav
+	KS128x128-1-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/DolgeWavDatoteke/KS128x128-5-K-4096s.wav
+	KS128x128-1-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/Koch/KS128x128-5-K-4096s-16s.wav
+	
+	SC128x128-1-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/DolgeWavDatoteke/SC128x128-1-K-4096s.wav
+	SC128x128-1-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/Sierpinski/SC128x128-1-K-4096s-16s.wav
+	SC128x128-2-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/DolgeWavDatoteke/SC128x128-2-K-4096s.wav
+	SC128x128-2-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/Sierpinski/SC128x128-2-K-4096s-16s.wav
+	SC128x128-3-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/DolgeWavDatoteke/SC128x128-3-K-4096s.wav
+	SC128x128-3-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/Sierpinski/SC128x128-3-K-4096s-16s.wav
+	SC128x128-4-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/DolgeWavDatoteke/SC128x128-4-K-4096s.wav
+	SC128x128-4-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/Sierpinski/SC128x128-4-K-4096s-16s.wav
+	SC128x128-5-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/DolgeWavDatoteke/SC128x128-5-K-4096s.wav
+	SC128x128-5-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202/Sierpinski/SC128x128-5-K-4096s-16s.wav
