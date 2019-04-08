@@ -17,9 +17,9 @@ Simultano:
 	SC128x128-4-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/Preproga%20Sierpinskega/SC128x128-4-S-.wav
 	SC128x128-5-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/Preproga%20Sierpinskega/SC128x128-5-S-.wav
 
-	4x4HC-128x128-S- 
-	8x8HC-128x128-S- 
-	16x16HC-128x128-S- 
+	4x4HC-128x128-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/Hilbert%20Curve/WAV%20Datoteke/Program%201%20-%20Simultano/4x4HC-128x128-S-.wav
+	8x8HC-128x128-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/Hilbert%20Curve/WAV%20Datoteke/Program%201%20-%20Simultano/8x8HC-128x128-S-.wav
+	16x16HC-128x128-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/Hilbert%20Curve/WAV%20Datoteke/Program%201%20-%20Simultano/16x16HC-128x128-S-.wav
 	
 Konsekutivno:
 
