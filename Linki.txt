@@ -2,57 +2,57 @@ WAV Datoteke:
 
 Simultano:
 
-	128x128B-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/128x128B-S-.wav
-	128x128W-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/128x128W-S-.wav
+	128x128B-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%201%20-%20Simultano/128x128B-S-.wav
+	128x128W-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%201%20-%20Simultano/128x128W-S-.wav
 
-	KS128x128-1-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/Kochova%20sne%C5%BEinka/KS128x128-1-S-.wav
-	KS128x128-2-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/Kochova%20sne%C5%BEinka/KS128x128-2-S-.wav
-	KS128x128-3-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/Kochova%20sne%C5%BEinka/KS128x128-3-S-.wav
-	KS128x128-4-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/Kochova%20sne%C5%BEinka/KS128x128-4-S-.wav
-	KS128x128-5-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/Kochova%20sne%C5%BEinka/KS128x128-5-S-.wav
+	KS128x128-1-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%201%20-%20Simultano/Kochova%20sne%C5%BEinka/KS128x128-1-S-.wav
+	KS128x128-2-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%201%20-%20Simultano/Kochova%20sne%C5%BEinka/KS128x128-2-S-.wav
+	KS128x128-3-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%201%20-%20Simultano/Kochova%20sne%C5%BEinka/KS128x128-3-S-.wav
+	KS128x128-4-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%201%20-%20Simultano/Kochova%20sne%C5%BEinka/KS128x128-4-S-.wav
+	KS128x128-5-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%201%20-%20Simultano/Kochova%20sne%C5%BEinka/KS128x128-5-S-.wav
 
-	SC128x128-1-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/Preproga%20Sierpinskega/SC128x128-1-S-.wav
-	SC128x128-2-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/Preproga%20Sierpinskega/SC128x128-2-S-.wav
-	SC128x128-3-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/Preproga%20Sierpinskega/SC128x128-3-S-.wav
-	SC128x128-4-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/Preproga%20Sierpinskega/SC128x128-4-S-.wav
-	SC128x128-5-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%201%20-%20Simultano/Preproga%20Sierpinskega/SC128x128-5-S-.wav
+	SC128x128-1-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%201%20-%20Simultano/Preproga%20Sierpinskega/SC128x128-1-S-.wav
+	SC128x128-2-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%201%20-%20Simultano/Preproga%20Sierpinskega/SC128x128-2-S-.wav
+	SC128x128-3-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%201%20-%20Simultano/Preproga%20Sierpinskega/SC128x128-3-S-.wav
+	SC128x128-4-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%201%20-%20Simultano/Preproga%20Sierpinskega/SC128x128-4-S-.wav
+	SC128x128-5-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%201%20-%20Simultano/Preproga%20Sierpinskega/SC128x128-5-S-.wav
 
-	4x4HC-128x128-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/Hilbert%20Curve/WAV%20Datoteke/Program%201%20-%20Simultano/4x4HC-128x128-S-.wav
-	8x8HC-128x128-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/Hilbert%20Curve/WAV%20Datoteke/Program%201%20-%20Simultano/8x8HC-128x128-S-.wav
-	16x16HC-128x128-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/Hilbert%20Curve/WAV%20Datoteke/Program%201%20-%20Simultano/16x16HC-128x128-S-.wav
+	4x4HC-128x128-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/Hilbert%20Curve/WAV%20Datoteke/Program%201%20-%20Simultano/4x4HC-128x128-S-.wav
+	8x8HC-128x128-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/Hilbert%20Curve/WAV%20Datoteke/Program%201%20-%20Simultano/8x8HC-128x128-S-.wav
+	16x16HC-128x128-S- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/Hilbert%20Curve/WAV%20Datoteke/Program%201%20-%20Simultano/16x16HC-128x128-S-.wav
 	
 Konsekutivno:
 
-	128x128B-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/128x128B-K-4096s.wav
-	128x128B-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/128x128B-K-4096s-16s.wav
+	128x128B-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/128x128B-K-4096s.wav
+	128x128B-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/128x128B-K-4096s-16s.wav
 	128x128W-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/128x128W-K-4096s.wav
-	128x128W-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/128x128W-K-4096s-16s.wav
+	128x128W-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/128x128W-K-4096s-16s.wav
 
-	KS128x128-1-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/KS128x128-1-K-4096s.wav
-	KS128x128-1-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Kochova%20sne%C5%BEinka/KS128x128-1-K-4096s-16s.wav
-	KS128x128-2-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/KS128x128-2-K-4096s.wav
-	KS128x128-2-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Kochova%20sne%C5%BEinka/KS128x128-2-K-4096s-16s.wav
-	KS128x128-3-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/KS128x128-3-K-4096s.wav
-	KS128x128-3-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Kochova%20sne%C5%BEinka/KS128x128-3-K-4096s-16s.wav
-	KS128x128-4-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/KS128x128-4-K-4096s.wav
-	KS128x128-4-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Kochova%20sne%C5%BEinka/KS128x128-4-K-4096s-16s.wav
-	KS128x128-1-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/KS128x128-5-K-4096s.wav
-	KS128x128-1-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Kochova%20sne%C5%BEinka/KS128x128-5-K-4096s-16s.wav
+	KS128x128-1-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/KS128x128-1-K-4096s.wav
+	KS128x128-1-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Kochova%20sne%C5%BEinka/KS128x128-1-K-4096s-16s.wav
+	KS128x128-2-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/KS128x128-2-K-4096s.wav
+	KS128x128-2-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Kochova%20sne%C5%BEinka/KS128x128-2-K-4096s-16s.wav
+	KS128x128-3-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/KS128x128-3-K-4096s.wav
+	KS128x128-3-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Kochova%20sne%C5%BEinka/KS128x128-3-K-4096s-16s.wav
+	KS128x128-4-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/KS128x128-4-K-4096s.wav
+	KS128x128-4-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Kochova%20sne%C5%BEinka/KS128x128-4-K-4096s-16s.wav
+	KS128x128-1-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/KS128x128-5-K-4096s.wav
+	KS128x128-1-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Kochova%20sne%C5%BEinka/KS128x128-5-K-4096s-16s.wav
 	
-	SC128x128-1-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/SC128x128-1-K-4096s.wav
-	SC128x128-1-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Preproga%20Sierpinskega/SC128x128-1-K-4096s-16s.wav
-	SC128x128-2-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/SC128x128-2-K-4096s.wav
-	SC128x128-2-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Preproga%20Sierpinskega/SC128x128-2-K-4096s-16s.wav
-	SC128x128-3-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/SC128x128-3-K-4096s.wav
-	SC128x128-3-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Preproga%20Sierpinskega/SC128x128-3-K-4096s-16s.wav
-	SC128x128-4-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/SC128x128-4-K-4096s.wav
-	SC128x128-4-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Preproga%20Sierpinskega/SC128x128-4-K-4096s-16s.wav
-	SC128x128-5-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/SC128x128-5-K-4096s.wav
-	SC128x128-5-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Preproga%20Sierpinskega/SC128x128-5-K-4096s-16s.wav
+	SC128x128-1-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/SC128x128-1-K-4096s.wav
+	SC128x128-1-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Preproga%20Sierpinskega/SC128x128-1-K-4096s-16s.wav
+	SC128x128-2-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/SC128x128-2-K-4096s.wav
+	SC128x128-2-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Preproga%20Sierpinskega/SC128x128-2-K-4096s-16s.wav
+	SC128x128-3-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/SC128x128-3-K-4096s.wav
+	SC128x128-3-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Preproga%20Sierpinskega/SC128x128-3-K-4096s-16s.wav
+	SC128x128-4-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/SC128x128-4-K-4096s.wav
+	SC128x128-4-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Preproga%20Sierpinskega/SC128x128-4-K-4096s-16s.wav
+	SC128x128-5-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/SC128x128-5-K-4096s.wav
+	SC128x128-5-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/WAV%20Datoteke/Program%202%20-%20Konsekutivno/Preproga%20Sierpinskega/SC128x128-5-K-4096s-16s.wav
 	
-	4x4HC-128x128-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/Hilbert%20Curve/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/4x4HC-128x128-K-4096s.wav
-	4x4HC-128x128-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/Hilbert%20Curve/WAV%20Datoteke/Program%202%20-%20Konsekutivno/4x4HC-128x128-K-4096s-16s.wav
-	8x8HC-128x128-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/Hilbert%20Curve/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/8x8HC-128x128-K-4096s.wav
-	8x8HC-128x128-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/Hilbert%20Curve/WAV%20Datoteke/Program%202%20-%20Konsekutivno/8x8HC-128x128-K-4096s-16s.wav
-	16x16HC-128x128-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/Hilbert%20Curve/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/16x16HC-128x128-K-4096s.wav
-	16x16HC-128x128-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/raw/master/Hilbert%20Curve/WAV%20Datoteke/Program%202%20-%20Konsekutivno/16x16HC-128x128-K-4096s-16s.wav
+	4x4HC-128x128-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/Hilbert%20Curve/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/4x4HC-128x128-K-4096s.wav
+	4x4HC-128x128-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/Hilbert%20Curve/WAV%20Datoteke/Program%202%20-%20Konsekutivno/4x4HC-128x128-K-4096s-16s.wav
+	8x8HC-128x128-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/Hilbert%20Curve/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/8x8HC-128x128-K-4096s.wav
+	8x8HC-128x128-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/Hilbert%20Curve/WAV%20Datoteke/Program%202%20-%20Konsekutivno/8x8HC-128x128-K-4096s-16s.wav
+	16x16HC-128x128-K-4096s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/Hilbert%20Curve/WAV%20Datoteke/Program%202%20-%20Konsekutivno/DolgeWavDatoteke/16x16HC-128x128-K-4096s.wav
+	16x16HC-128x128-K-4096s-16s- https://github.com/raziskovalnagimnm/ZvokiFraktalov/blob/master/Hilbert%20Curve/WAV%20Datoteke/Program%202%20-%20Konsekutivno/16x16HC-128x128-K-4096s-16s.wav
